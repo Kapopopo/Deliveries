@@ -1,7 +1,4 @@
-const text1 = 'Welcome to the javascript pool!';
-const text2 = 'Have some fun and dont forget to bring a towel.';
+document.write('Welcome to the javascript pool! <br/>Have some fun and dont forget to bring a towel.');
+const text3 =  'Website launched!'
 
-/*Website launched!*/
-
-console.log(text1);
-console.log(text2);
+console.log(text3);
